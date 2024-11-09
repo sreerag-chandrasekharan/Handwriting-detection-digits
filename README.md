@@ -6,14 +6,12 @@ This project demonstrates the implementation of a simple Handwritten Digit Recog
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Results](#results)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
